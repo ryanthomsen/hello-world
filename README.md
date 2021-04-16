@@ -1,6 +1,6 @@
 # hello-world
-Basic Hello World Program
 
-Hello everybody,
+Hello everybody
 
 Just a student learning to program.
+
